@@ -12,5 +12,7 @@ This application makes minimal use of jQuery and v1.11.3 is included.
 Also included:
 
   -index.html file to view the data
+  
   -script.js the JavaScript that includes the equations to generate the numbers and the instructions to display them
+  
   -styles.css style information
