@@ -1,0 +1,12 @@
+/* CSS Styles */
+body {font-family:'courier new'; margin:0;}
+#main {margin:auto; width:626px;}
+table {border-collapse:collapse; margin:auto;}
+.data {padding:9px 16px 7px 3px; font-weight:bold;}
+.label {padding:9px 7px 7px 9px;}
+td {padding:9px 7px 8px 0; margin:0; font-size:12pt;}
+.dayweek {font-size:11pt; padding-top:7px;}
+.h1sub {font-size:79%}
+#labelg {font-size:10pt;}
+#top_notes  {width:84%; margin:18px auto;}
+#bottom_notes  {width:84%; margin:18px auto; text-align:center;}
